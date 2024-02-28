@@ -1,0 +1,14 @@
+- npm install @types/react-navigation
+- npm i @react-navigation/native-stack
+- npm i @types/react-navigation
+- npm install react-native-webview
+
+
+- npm i react-native-paper
+- npm install @react-navigation/bottom-tabs
+- npx expo install react-native-screens react-native-safe-area-context
+- npm i react-native-vector-icons
+
+- npm install react-native-select-dropdown
+- npm install react-native-datepicker --save
+
